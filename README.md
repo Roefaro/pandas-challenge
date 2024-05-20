@@ -31,7 +31,7 @@ A DataFrame summarizing the district’s key metrics will be created, including:
 - Percentage passing reading
 - Overall passing percentage (students passing both math and reading)
 
-#### School Summary
+#### School Summary 
 
 Each school’s performance metrics will be calculated and presented in a DataFrame with the following details:
 - School name
